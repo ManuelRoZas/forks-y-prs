@@ -26,4 +26,10 @@ class User {
   }
 }
 
+function main() {
+  console.log("Hello world");
+}
+
+main();
+
 export { User, Product };
